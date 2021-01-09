@@ -1,0 +1,5 @@
+Line:1 Files in Java might be tricky, but it is fun enough!
+Line:2 This File have core java implementation!
+Core Java
+Python
+C#
